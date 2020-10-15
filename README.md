@@ -1,7 +1,4 @@
-<link rel="stylesheet" type="text/css" mhref="main.css" />
-
-<img src="cool.gif" alt="Cool GIF" width="400">
-
+![thumbnail](cool.gif)
 ### Hi there 👋
 
 My name is Udbhav Prasad and I'm an aspiring Machine Learning Specialist and Data Scientist. I'm in Toronto currently working for the Ministry of Health as an Application Programmer.

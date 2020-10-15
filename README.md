@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" mhref="main.css" />
+
 <img src="cool.gif" alt="Cool GIF" width="400">
 
 ### Hi there 👋

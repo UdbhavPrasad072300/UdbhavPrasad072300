@@ -1,4 +1,19 @@
-<p align=center><img src="cool.gif" width=500px></p>
+<table border="0">
+ <tr>
+   <td><img src="cool.gif" width=500px></td>
+   
+   <td><b>
+      Check out my work! <br><br>
+
+      Portfolio: https://udbhavprasad.com/ <br>
+      Linkedin: https://www.linkedin.com/in/udbhav-prasad-1506b7192/
+      <br>
+      Email me at: uprasad@ryerson.ca </b>
+   </td>
+ </tr>
+</table>
+
+
 
 ## Hi there 👋
 

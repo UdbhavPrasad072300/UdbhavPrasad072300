@@ -1,4 +1,4 @@
-<p align=center><img src="cool.gif" width=600px></p>
+<p align=center><img src="cool.gif" width=500px></p>
 
 ## Hi there 👋
 

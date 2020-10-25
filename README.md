@@ -23,7 +23,9 @@ Technologies:
 <ul>
  <li>Apache Spark</li>
  <li>Apache JMeter</li>
- <li></li>
+ <li>Tableau</li>
+ <li>Linux</li>
+ <li>Git</li>
 </ul>
 
 ## Hi there, I'm Udbhav 👋

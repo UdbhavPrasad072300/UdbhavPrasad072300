@@ -10,7 +10,7 @@ Languages:
 
 Python Libraries:
 <ul>
- <li>PyTorch</li>
+ <li>PyTorch (torch, torchvision, torchtext)</li>
  <li>Numpy</li>
  <li>Pandas</li>
  <li>Spacy</li>

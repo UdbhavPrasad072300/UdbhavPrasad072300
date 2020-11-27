@@ -22,6 +22,7 @@ Python Libraries:
 Technologies:
 <ul>
  <li>Apache Spark</li>
+ <li>Apache Hadoop</li>
  <li>Apache JMeter</li>
  <li>Tableau</li>
  <li>Linux</li>

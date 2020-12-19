@@ -23,7 +23,7 @@ Technologies:
  <li>Apache Spark</li>
  <li>Apache Hadoop</li>
  <li>Apache JMeter</li>
- <li>Tableau</li>
+ <li>MS Office</li>
  <li>Linux</li>
  <li>Git</li>
 </ul>

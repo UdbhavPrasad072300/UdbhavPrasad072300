@@ -14,7 +14,6 @@ Python Libraries:
  <li>Numpy</li>
  <li>Pandas</li>
  <li>Spacy</li>
- <li>NLTK</li>
  <li>Matplotlib</li>
  <li>Seaborn</li>
 </ul>

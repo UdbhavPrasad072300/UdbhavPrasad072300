@@ -1,4 +1,4 @@
-## Machine Learning Specialist and Data Scientist
+## Data Analyst and Machine Learning Specialist
 
 Languages:
 <ul>

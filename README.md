@@ -13,7 +13,6 @@ Python Libraries:
  <li>PyTorch (torch, torchvision, torchtext)</li>
  <li>Numpy</li>
  <li>Pandas</li>
- <li>Spacy</li>
  <li>Matplotlib</li>
  <li>Seaborn</li>
 </ul>

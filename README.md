@@ -11,6 +11,7 @@ Languages:
 Python Libraries:
 <ul>
  <li>PyTorch (torch, torchvision, torchtext)</li>
+ <li>Scikit-Learn</li>
  <li>Numpy</li>
  <li>Pandas</li>
  <li>Matplotlib</li>

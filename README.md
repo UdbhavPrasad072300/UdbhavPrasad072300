@@ -1,44 +1,12 @@
-## Data Analyst and Machine Learning Specialist
+# Data Analyst and Machine Learning Specialist
 
-Languages:
-<ul>
- <li>Python</li>
- <li>Scala</li>
- <li>Java</li>
- <li>SQL</li>
-</ul>
+## Hi, I'm Udbhav Prasad
 
-Python Libraries:
-<ul>
- <li>PyTorch (torch, torchvision, torchtext)</li>
- <li>Scikit-Learn</li>
- <li>Numpy</li>
- <li>Pandas</li>
- <li>Matplotlib</li>
- <li>Seaborn</li>
-</ul>
-
-Technologies:
-<ul>
- <li>Apache Spark</li>
- <li>PostgreSQL</li>
- <li>Apache Hadoop</li>
- <li>Apache JMeter</li>
- <li>MS Office</li>
- <li>Linux</li>
- <li>Git</li>
-</ul>
-
-## Hi there, I'm Udbhav 👋
-
-My name is Udbhav Prasad and I'm an aspiring Machine Learning Specialist and Data Scientist. <br>
-I'm in Toronto currently working for the Ministry of Health as an Application Programmer. <br>
+Ministry of Health and Long Term Care (MOHLTC) - Application Programmer <br>
+Ryerson University - Third-Year Computer Science Major & Mathematics Minor <br>
 
 Check out my work! <br>
-Portfolio: https://udbhavprasad.com/ <br>
-Linkedin: https://www.linkedin.com/in/udbhav-prasad-1506b7192/  
-Email me at: uprasad@ryerson.ca
-
-<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdbhavPrasad072300&count_private=true&hide=prs&include_all_commits=true)
-<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdbhavPrasad072300&layout=compact) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdbhavPrasad072300&count_private=true&hide=prs&include_all_commits=true)<br>
+<a href="https://udbhavprasad.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-www.udbhavprasad.com-red?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/udbhav-prasad-1506b7192/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Udbhav%20Prasad-white?style=flat-square"></a>
+<a href="mailto:uprasad@ryerson.ca"><img alt="Email" src="https://img.shields.io/badge/Email-uprasad@ryerson.ca-blue?style=flat-square">

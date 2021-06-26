@@ -1,4 +1,4 @@
-# Data Analyst and Machine Learning Specialist
+# Data Scientist and Machine Learning Specialist
 
 ## Hi, I'm Udbhav Prasad
 

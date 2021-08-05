@@ -1,4 +1,4 @@
-# Data Scientist and Machine Learning Specialist
+# Aspiring Machine Learning Engineer
 
 ## Hi, I'm Udbhav Prasad
 

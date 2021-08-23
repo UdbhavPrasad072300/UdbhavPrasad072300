@@ -1,5 +1,3 @@
-# Aspiring Machine Learning Engineer
-
 ## Hi, I'm Udbhav Prasad
 
 <p align=center>

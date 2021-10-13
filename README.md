@@ -5,7 +5,7 @@
   Ryerson University - Fourth-Year Computer Science Major & Mathematics Minor <br><br>
   Check out my code! <br>
   <img align=center alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UdbhavPrasad072300&count_private=true&hide=prs&include_all_commits=true">
-  <img align=center alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdbhavPrasad072300&layout=compact&hide=jupyter%20notebook,html"><br>
+  <img align=center alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdbhavPrasad072300&layout=compact&hide=jupyter%20notebook,html,tex"><br>
   Disclaimer: Jupyter Notebook and HTML are excluded from Most Used Languages
   <br> 
   <a href="https://www.kaggle.com/udbhavprasad1"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-www.kaggle.com/udbhavprasad1-blue?style=flat-square"></a>

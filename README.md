@@ -4,7 +4,7 @@
   Ontario Ministry of Health - Application Programmer <br>
   Ryerson University - Fourth-Year Computer Science Major & Mathematics Minor <br><br>
   Check out my code! <br>
-  <img align=center alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UdbhavPrasad072300&count_private=true&hide=prs&include_all_commits=true">
+  <img align=center alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UdbhavPrasad072300&count_private=true&hide=prs&include_all_commits=true&langs_count=7">
   <img align=center alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdbhavPrasad072300&layout=compact&hide=jupyter%20notebook,html,tex"><br>
   Disclaimer: Jupyter Notebook, LaTeX and HTML are excluded from Most Used Languages
   <br> 

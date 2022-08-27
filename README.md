@@ -2,7 +2,7 @@
 
 <p align=center>
   <b> Currently </b><br><br>
-  Final-Year Computer Science Major & Mathematics Minor @ Ryerson University <br>
+  Final-Year Computer Science Major @ Ryerson University <br>
   <br><b> Previously </b><br><br>
   Cyber Security Analyst @ Royal Bank of Canada <br>
   Research Assistant @ Ryerson University <br>

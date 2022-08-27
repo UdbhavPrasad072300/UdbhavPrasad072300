@@ -2,9 +2,9 @@
 
 <p align=center>
   <b> Currently </b><br><br>
-  Cyber Security Analyst @ Royal Bank of Canada <br>
   Final-Year Computer Science Major & Mathematics Minor @ Ryerson University <br>
   <br><b> Previously </b><br><br>
+  Cyber Security Analyst @ Royal Bank of Canada <br>
   Research Assistant @ Ryerson University <br>
   Application Programmer @ Ontario Ministry of Health <br> 
   <br><br>

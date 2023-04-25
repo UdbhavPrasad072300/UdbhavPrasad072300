@@ -2,8 +2,9 @@
 
 <p align=center>
   <b> Currently </b><br><br>
-  Final-Year Computer Science Major @ Ryerson University <br>
+  Cyber Threat Hunter @ RBC <br>
   <br><b> Previously </b><br><br>
+  Computer Science Major @ Ryerson University <br>
   Cyber Security Analyst @ Royal Bank of Canada <br>
   Research Assistant @ Ryerson University <br>
   Application Programmer @ Ontario Ministry of Health <br> 

@@ -2,8 +2,9 @@
 
 <p align=center>
   <b> Currently </b><br><br>
-  Cyber Threat Hunter @ RBC <br>
+  Security Engineer @ Amazon <br>
   <br><b> Previously </b><br><br>
+  Cyber Threat Hunter @ RBC <br>
   Computer Science Major @ Ryerson University <br>
   Cyber Security Analyst @ Royal Bank of Canada <br>
   Research Assistant @ Ryerson University <br>
